@@ -12,4 +12,4 @@ Hello everyone. My name is Dominic Paquin.
 *Git Large File Storage
 
 ## Git Path Variable
-![Alt text](image.png)
+<img src="![Alt text](<Screenshot (65).png>)"
