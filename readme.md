@@ -12,7 +12,7 @@ Hello everyone. My name is Dominic Paquin.
 *Git Large File Storage
 
 ## Git Path Variable
-<img src="![Alt text](<Screenshot (65).png>)" />
+<img src= />![Alt text](<Screenshot (65).png>)
 
 # Game395 31608
 Dominic Paquin
