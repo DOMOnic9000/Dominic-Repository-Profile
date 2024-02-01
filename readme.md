@@ -27,3 +27,8 @@ To exclude a specific file type from being tracked in a Git repository, you can 
 Dominic Paquin
 ## Week 3
 The Unity Package Manager is a tab in Unity used to share and store downloaded assets. Package managers in software have many different uses, and many programmers utilize these functions to do different things, such as reuse and back up code, share code with communtiies, etc.
+
+# Game395 31608
+Dominic Paquin
+## Week 4
+I'm pretty set on using the Lost Crypt mod pack. Alongside this, I have also discovered a cuple character, monster, and sounds asset packs that I could also use to make my game more complex and interesting.
