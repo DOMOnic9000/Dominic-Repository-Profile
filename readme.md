@@ -31,4 +31,4 @@ The Unity Package Manager is a tab in Unity used to share and store downloaded a
 # Game395 31608
 Dominic Paquin
 ## Week 4
-I'm pretty set on using the Lost Crypt mod pack. Alongside this, I have also discovered a cuple character, monster, and sounds asset packs that I could also use to make my game more complex and interesting.
+I am set on using the Lost Crypt mod pack. Alongside this, I have also discovered a couple character, monster, and sounds asset packs that I could also use to make my game more complex and interesting.
