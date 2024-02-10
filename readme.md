@@ -32,3 +32,8 @@ The Unity Package Manager is a tab in Unity used to share and store downloaded a
 Dominic Paquin
 ## Week 4
 I am set on using the Lost Crypt mod pack. Alongside this, I have also discovered a couple character, monster, and sounds asset packs that I could also use to make my game more complex and interesting.
+
+# Game395 31608
+Dominic Paquin
+## Week 5
+Class inheritance allows users to both reuse code and make different interfaces with the same behaviors. As an example, in class the professor demonstrated class inheritance by both editing code regarding public classes from certain objects and adding rewritten scripts to those objects.
