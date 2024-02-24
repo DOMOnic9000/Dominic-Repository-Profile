@@ -37,3 +37,8 @@ I am set on using the Lost Crypt mod pack. Alongside this, I have also discovere
 Dominic Paquin
 ## Week 5
 Class inheritance allows users to both reuse code and make different interfaces with the same behaviors. As an example, in class the professor demonstrated class inheritance by both editing code regarding public classes from certain objects and adding rewritten scripts to those objects.
+
+# Game395 31608
+Dominic Paquin
+## Week 7
+In Unity, PlayerPrefs is an easy way to store player preferences throughout different game files. It allows developers to efficienty save player preference data on their personal devices. The functions of Player Prefs also include saving player progress in games, handling the customization of the player character and/or other objects, and caching data. Developers should be aware that PlayerPrefs is usefuly for storing small amounts of data, and not large or senstive data.
