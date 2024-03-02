@@ -42,3 +42,13 @@ Class inheritance allows users to both reuse code and make different interfaces 
 Dominic Paquin
 ## Week 7
 In Unity, PlayerPrefs is an easy way to store player preferences throughout different game files. It allows developers to efficienty save player preference data on their personal devices. The functions of Player Prefs also include saving player progress in games, handling the customization of the player character and/or other objects, and caching data. Developers should be aware that PlayerPrefs is usefuly for storing small amounts of data, and not large or senstive data.
+
+# Game395 31608
+Dominic Paquin
+## Week 8
+Although I finished my Project Proposal before Spring Break, I have unfortunately not utilized my weekly blocked time not only because of my general confusion surrounding the layout and editing of the Document itself, but also because of a mismanagement of time regarding other work in other classes. Due to other work, I have not properly focused my time and energy into considering what specific days I have the most time to focus my effort on my project versus the day that I don't have enough time.
+
+
+
+
+
