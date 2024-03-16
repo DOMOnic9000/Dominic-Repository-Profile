@@ -48,6 +48,11 @@ Dominic Paquin
 ## Week 8
 Although I finished my Project Proposal before Spring Break, I have unfortunately not utilized my weekly blocked time not only because of my general confusion surrounding the layout and editing of the Document itself, but also because of a mismanagement of time regarding other work in other classes. Due to other work, I have not properly focused my time and energy into considering what specific days I have the most time to focus my effort on my project versus the day that I don't have enough time.
 
+# Game395 31608
+Dominic Paquin
+## Week 9
+Based on the discussion with the industry expert on 3-11-24, I mainly learned that the triple A gaming will be at a large decline of quality in both games and management for at least five years. Thus, in my future as a game developer, I will be looking more towards working at potential indie game studios rather than setting my sights at the triple A game studios. I also learned that connections and netwoking are very important to earning specific positions in the industry as well.
+
 
 
 
