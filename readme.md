@@ -53,7 +53,10 @@ Dominic Paquin
 ## Week 9
 Based on the discussion with the industry expert on 3-11-24, I mainly learned that the triple A gaming will be at a large decline of quality in both games and management for at least five years. Thus, in my future as a game developer, I will be looking more towards working at potential indie game studios rather than setting my sights at the triple A game studios. I also learned that connections and netwoking are very important to earning specific positions in the industry as well.
 
-
+# Game395 31608
+Dominic Paquin 
+## Week 11
+Both ProBuilder and PolyBrush would not be good applications for my workflow because the 3D tools that they provide would not be beneficial for my 2D game project. That being said, Game Maker Studio would be a compatible addition to my game not only because it has tools for 2D games, but because I already have prior experience with working with Game Maker Studio. The Sprite Editor, which is already included in my game project, can also be used to edit character animations as well.
 
 
 
