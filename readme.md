@@ -61,5 +61,5 @@ Both ProBuilder and PolyBrush would not be good applications for my workflow bec
 # Game395 31608
 Dominic Paquin 
 ## Week 12
-Although I went to the VMASC event on Wednesday, I did not take part in the motion capture event. That being said, I primarily learned how motion capture technology can be integreated into Unity projects, and how both of those applications work with each other. It was also interesting to personally see how the nodes, or the dots, are placed onto peoples' bodies and how that is reflected (literally) into the motion capture's data.
+Although I went to the VMASC event on Wednesday, I did not take part in the motion capture event. That being said, I primarily learned how motion capture technology can be integrated into Unity projects, and how both of those applications work with each other. It was also interesting to personally see how the nodes, or the dots, are placed onto peoples' bodies and how that is reflected (literally) into the motion capture's data.
 
