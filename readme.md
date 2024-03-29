@@ -58,5 +58,8 @@ Dominic Paquin
 ## Week 11
 Both ProBuilder and PolyBrush would not be good applications for my workflow because the 3D tools that they provide would not be beneficial for my 2D game project. That being said, Game Maker Studio would be a compatible addition to my game not only because it has tools for 2D games, but because I already have prior experience with working with Game Maker Studio. The Sprite Editor, which is already included in my game project, can also be used to edit character animations as well.
 
-
+# Game395 31608
+Dominic Paquin 
+## Week 12
+Although I went to the VMASC event on Wednesday, I did not take part in the motion capture event. That being said, I primarily learned how motion capture technology can be integreated into Unity projects, and how both of those applications work with each other. It was also interesting to personally see how the nodes, or the dots, are placed onto peoples' bodies and how that is reflected (literally) into the motion capture's data.
 
