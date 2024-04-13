@@ -67,3 +67,8 @@ Although I went to the VMASC event on Wednesday, I did not take part in the moti
 Dominic Paquin 
 ## Week 13
 At this point, I believe I am considerably falling behind as I do not have a working prototype as of this weekly ticket. That being said, now that I am more familiar with my game project and my scenes, I should be able to put a considerable amount of work in next week.
+
+# Game395 31608
+Dominic Paquin 
+## Week 14
+Although I did put a lot more hours into my project this week, I am still struggling to meet some of the goals I have listed in my Project Proposal; particularly, with the UI and Camera tasks. This is because I did not properly account for the rest of my projects in my other courses taking me longer to complete than the amount of time I geussed. That being said, my schedule will definitely be clearing up a lot more by next week. Therefore, next week I will be putting the most amount of time into the finishing details of my game project.
