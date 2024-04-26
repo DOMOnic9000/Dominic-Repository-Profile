@@ -72,3 +72,8 @@ At this point, I believe I am considerably falling behind as I do not have a wor
 Dominic Paquin 
 ## Week 14
 Although I did put a lot more hours into my project this week, I am still struggling to meet some of the goals I have listed in my Project Proposal; particularly, with the UI and Camera tasks. This is because I did not properly account for the rest of my projects in my other courses taking me longer to complete than the amount of time I geussed. That being said, my schedule will definitely be clearing up a lot more by next week. Therefore, next week I will be putting the most amount of time into the finishing details of my game project.
+
+# Game395 31608
+Dominic Paquin 
+## Week 15
+I believe it was important for people to address their concerns for thier projects during class; not only because it helps people catch up with their work, but also becuase it provides opportunities for others to learn more about their own projects and the functions of Unity in general. That being said, if an improvement could be made to the course schedule, I would suggest reducing the time to fix other students' projects to one day a week instead of using both days per week.
